@@ -45,7 +45,6 @@ public class Parser {
 			else
 				return new Invalid();
 		} catch (Exception e) {
-			System.out.println("Error parsing command.");
 			return new Invalid();
 		}
 

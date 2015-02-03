@@ -6,7 +6,7 @@ package com.dennyac.simpledb;
  * It reads commands for Standard input and passes the commands to the database for execution
  * @author dennyac
  * 
- * Sample Usage - 
+ * Sample Usage - java -cp simpledb-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.dennyac.simpledb.Driver
  *
  */
 public class Driver {
